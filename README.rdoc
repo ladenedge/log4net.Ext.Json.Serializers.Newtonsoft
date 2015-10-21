@@ -1,0 +1,14 @@
+
+= log4net.Ext.Json.Serializers.Newtonsoft
+
+log4net.Ext.Json.Serializers.Newtonsoft is a serialization plugin for
+{log4net.Ext.Json}[http://sourceforge.net/p/log4net-json] that supports
+{Newtonsoft's JSON.Net}[http://www.newtonsoft.com/json].
+
+log4net.Ext.Json.Serializers.Newtonsoft is available via {NuGet}[https://nuget.org/packages/log4net.Ext.Json.Serializers.Newtonsoft].
+To install it, run the following command in the {Package Manager Console}[http://docs.nuget.org/docs/start-here/using-the-package-manager-console]:
+
+ PM> Install-Package log4net.Ext.Json.Serializers.Newtonsoft
+
+Please see the {wiki}[https://github.com/ladenedge/log4net.Ext.Json.Serializers.Newtonsoft/wiki]
+for usage.

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Jay Miller</authors>
+    <owners>Jay Miller</owners>
+    <licenseUrl>http://creativecommons.org/publicdomain/mark/1.0</licenseUrl>
+    <projectUrl>http://github.com/ladenedge/log4net.Ext.Json.Serializers.Newtonsoft</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>log4net JSON.Net</tags>
+    <dependencies>
+      <dependency id="log4net" version="1.2.13" />
+      <dependency id="log4net.Ext.Json.1.2.13" version="1.2.13.20140804" />
+      <dependency id="Newtonsoft.Json" version="6.0.0" />
+    </dependencies>
+  </metadata>
+</package>
